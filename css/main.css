@@ -1,0 +1,24 @@
+a{
+	text-decoration:none;
+}
+
+a:hover{
+	text-decoration:none;
+}
+
+body{
+	margin-top: 70px !important;
+	background-color: #F1F1F1 !important;
+}
+
+.box-style{
+    padding: 50px;
+    background-color: #fff;
+	border: 1px solid #ccc;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+}
+
+.add-user{
+	margin-bottom: 20px;
+}
