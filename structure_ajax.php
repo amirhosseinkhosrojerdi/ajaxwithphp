@@ -1,4 +1,5 @@
 <?php
+//structure ajax
 
 //Enable Ajax feature
 $.ajax({
